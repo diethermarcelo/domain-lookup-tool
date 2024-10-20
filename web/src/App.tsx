@@ -61,7 +61,7 @@ function App() {
   
       setResponseInformationType(informationType);
   
-      const response = await axios.get(`http://localhost:3000/domains`, config);
+      const response = await axios.get(`http://localhost:3000/domains`, config); // TODO: ENV
   
       const { data } = response;
   
