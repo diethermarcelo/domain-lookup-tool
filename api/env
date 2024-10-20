@@ -1,3 +1,4 @@
+APP_NAME=''
 WHOISAPI_TOKEN=''
-WHOISAPI_URL=''
-PORT=''
+WHOISAPI_URL='https://www.whoisxmlapi.com/whoisserver/WhoisService'
+PORT='3000'
