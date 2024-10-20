@@ -31,5 +31,7 @@ cd web && npm install
 - Swagger
 
 ## Preview:
-https://github.com/user-attachments/assets/6a316920-3a87-4a0a-9740-2502cb0c5f2b
+https://github.com/user-attachments/assets/86c50c9c-1825-438f-8592-c1ee4e460e66
+
+
 
