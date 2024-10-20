@@ -5,6 +5,7 @@
 - add cypress
 - swagger
 - webpack alias
+- mod
 
 ## How to setup:
 1. Go to api folder and install the dependencies
